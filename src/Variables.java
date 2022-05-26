@@ -22,8 +22,8 @@ public class Variables
         System.out.println("long: Like an int, but 64 bits. Signed (default): -2^63 to 2^63-1. Unsigned: 0 to 2^64-1.");
         System.out.println("float: A floating-point number: values between integers near 0 but also very big integers.");
         System.out.println("Floats are not precise enough at large values and should not be used for things like money.");
-        System.out.println("double: This is a floating point number wtih twice as many bits.");
-        System.out.println("It has an even larger range of values, with more pecision near 0 and even bigger integers.");
+        System.out.println("double: This is a floating point number with twice as many bits.");
+        System.out.println("It has an even larger range of values, with more percision near 0 and even bigger integers.");
         System.out.println("boolean: represents one bit, values are 'True' or 'False'.");
         System.out.println("char: 16-bit Unicode character.");
     }
